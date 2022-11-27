@@ -11,7 +11,7 @@ window.addEventListener('DOMContentLoaded', () => {
 
     let modalState = {};
     let deadline = '2022-11-30';
-    console.log(modalState);
+    // console.log(modalState);
 
     changeModalState(modalState);
     modals();
